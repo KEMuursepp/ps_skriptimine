@@ -1,0 +1,10 @@
+Name,Age
+John,8
+Joe,12
+Mary,7
+Tom,15
+Lily,16
+Emily,9
+
+"Our result should be a table which should contain the name of the student and mention whether they
+are in Junior School (Age between 4-10) or in Senior School (Age between 11-17)"
